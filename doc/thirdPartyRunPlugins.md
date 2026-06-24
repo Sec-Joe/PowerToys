@@ -80,3 +80,4 @@ Below are community created plugins that target a website or software.  They are
 | [PerplexitySearchShortcut](https://github.com/0x6f677548/PowerToys-Run-PerplexitySearchShortcut) | [0x6f677548](https://github.com/0x6f677548) | Search Perplexity |
 | [SpeedTest](https://github.com/ruslanlap/PowerToysRun-SpeedTest) | [ruslanlap](https://github.com/ruslanlap) | One-command internet speed tests with real-time results, modern UI, and shareable links. |
 | [DiskAnalyzer](https://github.com/valley-soft/powertoys-diskanalyzer) | [ValleySoft](https://github.com/valley-soft) | Scan folders, find the largest files, and view drive space usage. |
+| [Password Generator](https://github.com/Sec-Joe/PowerToys-Run-Password-Generator) | [Sec-Joe](https://github.com/Sec-Joe) | Generate strong passwords instantly with FIPS 140-2 certified CSPRNG. No network, no account required. |
